@@ -10,6 +10,10 @@ The **Shooting Game** is a game where your primary objective is to score many po
 ## Why did we choose this concept?
 The concept of this game is chosen, because its what the members had decided together, and as the concept is very simple the somewhat easy to make
 
+## Gameplay
+**Phew~ Phew~**
+<video src = "https://github.com/CirJ9/ALFARERO-BAGUISI-BRAVO-DUAG-GARCIA-BSCS1B/blob/main/Sample%20Gameplay.mp4" width = "100%">
+
 # Overview 
 This project serve as our output for our final project for the subject of DCIT 23
 ## Members
