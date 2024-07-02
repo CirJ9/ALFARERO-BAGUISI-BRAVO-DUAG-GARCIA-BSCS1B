@@ -1,6 +1,6 @@
 # ALFARERO-BAGUISI-BRAVO-DUAG-GARCIA-BSCS1B
 # Shooting Game
-![Output of The Shooting Game](https://github.com/CirJ9/ALFARERO-BAGUISI-BRAVO-DUAG-GARCIA-BSCS1B/blob/main/Final%20Output.png)
+![Output of The Shooting Game](https://github.com/CirJ9/ALFARERO-BAGUISI-BRAVO-DUAG-GARCIA-BSCS1B/blob/main/Final%20Output.jpeg)
 **A Simple Recreation of the Classic Retro Game of _Space Invaders_**
 
 # Introduction
