@@ -52,7 +52,7 @@ public class ShootingGame extends Frame implements Runnable {
     private void initializeGame() {
         setSize(800, 600);
         setTitle("Shooting Game");
-        setBackground(Color.GRAY);
+        setBackground(Color.BLACK);
         bullets = new ArrayList<>();
         targets = new ArrayList<>();
         score = 0;
