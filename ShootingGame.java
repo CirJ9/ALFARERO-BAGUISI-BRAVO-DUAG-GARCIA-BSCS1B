@@ -80,7 +80,7 @@ public class ShootingGame extends Frame implements Runnable {
             }
         }
 
-        // Move targets
+
         for (Rectangle target : targets) {
             target.x += random.nextBoolean() ? 1 : -1;
             if (target.x < 0 || target.x > getWidth() - 50) {
@@ -88,7 +88,7 @@ public class ShootingGame extends Frame implements Runnable {
             }
         }
 
-        // Check for collisions
+
         for (int i = 0; i < bullets.size(); i++) {
             for (int j = 0; j < targets.size(); j++) {
                 if (bullets.get(i).intersects(targets.get(j))) {
@@ -101,13 +101,13 @@ public class ShootingGame extends Frame implements Runnable {
             }
         }
 
-        // Check for game over or level up
+
         if (targets.isEmpty()) {
             level++;
             spawnTargets();
         }
 
-        // Decrease health if targets reach the bottom
+
         for (int i = 0; i < targets.size(); i++) {
             if (targets.get(i).y >= playerY) {
                 targets.remove(i);
